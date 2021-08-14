@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.display-card {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
