@@ -1,6 +1,7 @@
 To run project, run following command
 
 npm install
+
 npm start
 
 To run the backend server, clone the following repository and follow instruction there
